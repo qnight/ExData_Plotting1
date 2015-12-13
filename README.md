@@ -112,3 +112,28 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+## My Task
+
+### Plot 1
+
+
+![plot from file plot1.R](plot1.png) 
+
+
+
+### Plot 2
+
+![plot from file plot2.R](plot2.png) 
+
+
+
+### Plot 3
+
+![plot from file plot3.R](plot3.png) 
+
+
+
+### Plot 4
+
+![plot from file plot4.R](plot4.png) 
+
